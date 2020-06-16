@@ -1,4 +1,4 @@
-# Text To Img
+# Text To Image
 
 These two programs can either convert text to an image or convert an image to text
 conimg.py Is used to convert an image into text
