@@ -1,6 +1,8 @@
-# Project Title
+# Text To Img
 
-This program inneficciently converts images into text files with the ability to convert the text file back into an image.
+These two programs can either convert text to an image or convert an image to text
+conimg.py Is used to convert an image into text
+contxt.py Is used to convert text into an image that is readable by conimg.py
 
 ### Prerequisites
 
@@ -9,9 +11,4 @@ What things you need to install the software and how to install them
 Pillow
 ```
 pip install Pillow
-```
-
-Base65536
-```
-pip install base65536
 ```
