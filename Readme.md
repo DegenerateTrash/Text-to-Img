@@ -6,9 +6,8 @@ contxt.py Is used to convert text into an image that is readable by conimg.py
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
 
-Pillow
+Pillow is required for image manipulation and reading the pixels in an image.
 ```
 pip install Pillow
 ```
