@@ -7,10 +7,10 @@ import cProfile
 
 def main():
     
-    #userin = str(input("Give text to convert: "))
-    #userin = open("txt.txt","r", encoding="utf-8") 
-    userin = open(__file__).read() 
-    #userin = userin.read()
+
+    userin = open(str(input("Give file to convert: ")),"r", encoding="utf-8") 
+    #userin = open(__file__).read() 
+    userin = userin.read()
     start = time.time()
     f = 0
     while True:
